@@ -1,6 +1,3 @@
-# mapdata
-
-
 DISCLAIMER: The content contained in this repository is provided for information purposes only. The publishers
 aim to provide the public with tools and analyses that elevate understanding, best practices, and ambitions
 for protection of nature, climate, and people. This data has been prepared using publicly available
@@ -13,6 +10,6 @@ supporting your position and a request for a correction. Earth Insight will revi
 necessary corrections.
 
 
-Suggested Citation 
+**Suggested Citation** 
 
 Earth Insight (2024). Oilbase r24.1 [online], Sacramento, CA: Earth Insight. Available at: https://github.com/earth-insight/mapdata_public
